@@ -1,3 +1,3 @@
 # Backyard forest
 
-Course
+Forest garden course
