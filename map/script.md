@@ -24,8 +24,26 @@ So, without further ado, let’s get gardening!
 
 ## Backyard Forest definition
 
-A backyard forest is quite simply a
+A backyard forest is quite simply an **edible ecosystem**; it’s a way of growing edible crops _with_ nature. There are few different names for such a growing system; I normally call it a forest garden, although you’ll also hear food forest and edible landscape. 
 
-* Forest garden
-* Food forest
-* Edible landscape
+I call it a Backyard Forest because I want to emphasise the idea that it can be every garden.
+
+> Work with nature to grow edible crops,
+> emulate the woodland edge using
+> perennial & ground cover plants
+
+As you can see, **sustainability** is at the core of forest gardening; let nature do the heavy lifting.
+
+What you’re really doing is growing fruit, nuts, vegetables, salad and herbs in a **widlife garden**. It is the garden itself that provides fertility, a balance of plants and pest control. Central to any wildlife garden is **native plants**, as they have co-evolved with native wildlife, providing food and shelter for all stages and life cycles. And this is exciting, because now you're gardening for **everyone**, with added purpose.
+
+# Why a Backyard Forest?
+
+Well, 2 reasons which are really 2 sides of the same problem: the ecological and climate emergency.
+
+We’re living through an age of mass extinction, driven by extreme climate change and habitat destruction, and the way that we live is the cause of it.
+
+Essentially, we need to live sustainably in order to sustain life, 
+
+# Characteristics
+
+A Backyard Forest (and a forest garden!) 
