@@ -46,4 +46,4 @@ Essentially, we need to live sustainably in order to sustain life,
 
 # Characteristics
 
-A Backyard Forest (and a forest garden!) 
+A Backyard Forest (and a forest garden!) have some key characteristics. First and foremost, they are sustainable: self-sustaining ecosystems that provide their own fertility and pest control. There’s no need to bring anything extra into your Backyard Forest. 
