@@ -50,4 +50,4 @@ A forest garden has some key characteristics. First and foremost, they are susta
 
 # Reasons to be planning
 
-[SINGS] 1-2-3, hat tip to Ian Dury and the Blockheads
+[SINGS] 1-2-3, hat tip to Ian Dury and the Blockheads. Firstly, **document** what is around you. The, make a big, clear list of what you want. And then, after soem design work, distil your infor
