@@ -26,7 +26,7 @@ So, without further ado, let’s get gardening!
 
 A backyard forest is quite simply an **edible ecosystem**; it’s a way of growing edible crops _with_ nature. There are few different names for such a growing system; I normally call it a forest garden, although you’ll also hear food forest and edible landscape. 
 
-I call it a Backyard Forest because I want to emphasise the idea that it can be every garden.
+I call it a Backyard Forest because I want to emphasise that _every_ garden, no matter the size, can be a forest garden. As a heads-up, I’ll use the terms interchangeably throughout the course.
 
 > Work with nature to grow edible crops,
 > emulate the woodland edge using
@@ -46,4 +46,8 @@ Essentially, we need to live sustainably in order to sustain life,
 
 # Characteristics
 
-A Backyard Forest (and a forest garden!) have some key characteristics. First and foremost, they are sustainable: self-sustaining ecosystems that provide their own fertility and pest control. There’s no need to bring anything extra into your Backyard Forest. 
+A forest garden has some key characteristics. First and foremost, they are sustainable: self-sustaining ecosystems that provide their own fertility and pest control. There’s no need to bring anything extra into your Backyard Forest. The second characteristic is that it’s a **productive** garden, it’s geared up to provide a harvest of a whole range of different crops. Thirdly, as mentioned before, a Backyard Forest is **wildlife friendly by design**, by working _with_ nature. Number four, a Backyard Forest is gardening **in 3D** ie it uses all the available space, by using all the layers: the tree canopy, shrubs, herbaceous perennials, ground cover, climbers etc. And the fifth and final characteristic is that the vast majority of forest garden plants are perennial. This simply means that the plants grow for more than a couple of years, eg trees and herbaceous perennials like asparagus. Annuals such as poppies and carrots only have a lifespan of one year. The reason for using perennials is that they are lower maintenance and more resilient. There _are_ annual plants in a forest garden but these tend to be ones that self-seed freely, for example nasturtiums and poached egg plant.
+
+# Reasons to be planning
+
+1-2-3, hat tip to 
