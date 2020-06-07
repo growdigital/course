@@ -4,7 +4,11 @@ My name is Jake Rayson and I’m a forest gardener and designer.
 
 No matter the size of your garden, I’ll help you map out your very own wildlife-friendly backyard forest. We’ll create a plan of action, from making observations of what’s already there, to writing a wish list of lovely plants, through to creating a simple map, with some added bonus design tips.
 
+This free mini-course can be viewed standalone but it actually forms part of my more comprehensive online course, Create a Backyard Forest.
+
 My website is forestgarden.wales and you can find me as Forest Garden Wales on YouTube, Twitch, Twitter and Facebook. Just one other thing, these slides will always be freely available online.
+
+Before I get started, I want to thorougly recommend that you get a copy of Martin Crawford’s 'Creating a Forest Garden'. It is a fantastic reference and a step-by-step guide, the best book I've read on forest gardening.
 
 ## What you’ll learn
 
@@ -99,3 +103,100 @@ There are **4** sections:
 * Plants - make a list of useful plants, whether they’re providing a harvest; providing food and habitat for wildlife; adding nutrients to the garden _or_ a combination of all these
 * Pictures - pictures are great. Very powerful way of aiding your imagination, and inspiring and motivating yourself.
 
+# Survey
+
+Surveying your land and situation helps you get a measure of what you need to do. We’ll look at the position of your plot, the weather & climate, the existing features, the situation with regard to neighbours and the landscape, and finally _your_ situation.
+
+## Position
+
+The position of your plot is pretty fundamental to what you can grow. You need to figure out the aspect, how it is orientated in relation to the points of the compass. South facing positions have more light, east facing gets the morning sun, west facing gets the evening sun. How much light an area gets plays a large part in what plants will thrive there, so always check how much light a plant requires by using one of the plant databases. 
+
+The elevation of your property (how high above sea level) is worth considering, as this can have a dramatic effect on your micro-climate.
+
+Finally, you should also make a note of how sloped the land is, as it has a bearing on where the water flows, plus the slope affects light levels, increasing the light on a southerly slope, decreasing the light on a northerly slope.
+
+## Elements
+
+These are the elements water, earth, wind, sun and, er, climate!
+
+### Water
+
+Water is, kind of obviously, very important, particularly in these times of Climate Emergency. Observe where the water flows, for example, if there’s a stream on or near your land and whether it’s a seasonal water course. Also observe where the damp and dry patches are—look to existing plant communities for clues. And consider where you might be able to collect water, whether harvesting rain from a roof into a barrel, or directing the water into a pond or swale.
+
+### Earth
+
+Earth, well, no-one can live without earth. There’s a couple of things to look out for: the pH or acidity of the soil, and the _type_ of soil you have. You can use either a home test kit for pH or send it to a local farmer’s cooperative for a small fee. The closer to neutral your soil is (a pH of 7), then the wider range of plants you grow (extremes of pH reduce the uptake of nutrients).
+
+Your type of soil will also determine which plants will thrive. There are 3 basic soil types: clay, sandy and loam. You can do the sausage test to see which type of soil you have, or the jar test. The sausage test is when you make your soil damp and then try roll a sausage. If it rolls easily, it’s clay, if it falls apart, it’s sand, and loam is somewhere inbetween.
+
+With both pH and soil type, it’s worth taking a few samples from different parts of your garden, as there can be a dramatic variation in a very small space. Also, worth paying attention to old rubbish tips, building foundations, old car parking areas etc, as these can have a dramatic impact on soil quality.
+
+### Features
+
+Make a note on your plan on what the existing plants are. Not only can they give you clues as to what will do well, you’ll also have a much better idea about how much work is involved in moving/removing plants. Believe me, established plants can take a lot of work to move!
+
+Also, mark up what the existing structures are: old sheds, greenhouses, garages etc
+
+And most importantly, get to know where your utilities are. This includes electricity lines, telephone lines, water pipes, sewage pipes and drains. You don’t want to be planting what will become a 15m tree beneath a 12m telephone line, nor on top of a water pipe!
+
+And access, make sure to mark where paths and gates are. Using the Ordnance Survey view on Bing Maps, you can also check about public rights of way on or near your property.
+
+### Situation
+
+We also need to think about where your garden _sits_, in relation to your dwelling, your neighbours and your landscape. Are you in a valley, next to a river, near a railway line, by a busy road…? All of these different situations need considering. Out here in West Wales, it’s mostly a dairy farming area, which means there’s a lot of liquified cow poo sprayed on the rye grass fields, which isn’t the most welcoming or natural of smells! As for neighbours, is your garden overlooked, is there an issue with noise, do you need some security on a border? 
+
+### You 
+
+At the centre of your universe, you are. What’s your family setup? What do people like to do? How do they like to use the garden? What do they like to eat?
+
+## 2. Features
+
+**All** Backyard Forests would benefit from **wildlife features**, a **nutrient budget** and **water conservation**.
+
+The 4 key wildlife features are a pond, native plants, mature trees & shrubs for cover, food & habitat and a couple of log piles. A good introduction to ponds is The Wildlife Pond Book, by Jules Howard and I can recommend Wildlife Gardening for Everyone and Everything by Kate Bradbury as a good introduction. 
+
+Benjamin Vogt’s A New Garden Ethic is more… weighty: it gives a powerful account of why we should be gardening for wildlife as well, rather than simply pandering to human whims.
+
+Fertility in a forest garden is supplied by 'system plants'. These are plants like comfrey for potassium and members of the pea family for nitrogen. A nutrient budget is when you calculate how much fertility you require for your plants. There are more details in chapter 6 of Creating a Forest Garden.
+
+And water conservation… well, if there’s one thing we know about climate change, it's that we don't know what's coming. Thus far in 2020, we've had the wettest February and the driest Spring. Our well here in West Wales dried up on 30th May. So, make sure you have a way to conserve your water in case of a hosepipe ban.
+
+Back to the other features. Think BIG with the other features. Write _all_ the ideas down; far better to consider an idea than to lose it without thought. 
+
+Other things you might want to contemplate are a polytunnel/greenhouse, space for annual vegetables, a wildflower meadow, seating areas, a stone pile, bee hotels. Honestly, write them all down.
+
+## Plants
+
+Ahh, plants! Now we're getting down to some proper forest garden business. 
+
+There is a **huge** range of plants out there to consider for your Backyard Forest. Again, the Creating a Forest Garden book is a great place to start. I made a huge great wishlist, then whittled it down to what I could get and what I could afford! The most invaluable website is Plants For A Future. They list a vast range of edible and useful plants, with all the basic growing information. 
+
+It’s also worth looking at the online RHS Plant Finder. This comes from a more ornamental perspective but has a wealth of information. Of particular interest is the native filter, which only chooses native plants according to your selection criteria.
+
+And of course, think once, think twice, think native. And think native wildflowers. If you bring in the bugs, the caterpillars, the bees and the butterflies, then the rest of the wildlife will follow.
+
+## Pictures
+
+Finally, to wrap up this stage of planning your Backyard Forest, gather all your pictures! Photos, drawings, illustrations, they are all great for generating enthusiasm and stimulating your imagination. For my clients, I use Pinterest a lot. It's an easy place to share and store images. 
+
+# Map
+
+Now, we move on to the map.
+
+The map does not have to be fancy. The map can be a piece of paper with pencil scribbles on it.
+
+What you have to bear in mind is that "the map is not the territory"
+
+Rather, the map has a **function**, it is a **tool**. In the same way that Pinterest is a repository for your photos, a map is a repository for your critical observations. What I mean by this is **mark the important features** from your survey.
+
+A map is also _the_ place to try out the positions of trees and large shrubs. If you remember the previous slide, don’t plant a giant sequoia by your back door! Figure out the final height and diameter of the plant, then try it out in different positions in the garden.
+
+Remember, your map can be paper, online using a service like Scribble Maps, or on your computer, using a drawing or CAD package. 
+
+Paper is easier initially but can be difficult to update. I like to use 5mm squared A3 paper.
+
+Online services often rely on dodgy google satellite photos, which can be troublesome for smaller gardens. 
+
+CAD, which stands for Computer Aided Design, is great but has a steep learning curve; you definitely need to be comfortable with computers before taking the plunge. The free software I use is called QCAD.
+
+What I’ll do is take you through setting up a scale on a paper map, and then how to set up a satellite photo as a the basis of a CAD map. We'll then go through measuring techniques, which you can use for both paper and CAD maps.
