@@ -1,64 +1,41 @@
-Greetings and welcome to lecture number 2 of the Backyard Forest, the online course for anyone who wants to transform their garden into a lush food forest, working with nature to grow edible crops, _and_ create a haven for wildlife.
-
-This lecture is all about planning your backyard forest. And it’s a big one, packed full of nutritious information.
+Greetings and welcome to the Backyard Forest, an online course for everyone who wants to transform their garden into a lush food forest and wildlife haven.
 
 My name is Jake Rayson and I’m a forest gardener and forest garden designer.
 
+This is the second lecture, and it’s about how to plan your backyard forest. It’s a big one, packed full of nutritious information, so pay attention!
+
+## Course overview
+
+This is number 2 of 8 lectures in total. The first 3 lectures are about observing, planning and designing. Then we get our hands really dirty for the next 3 lectures, and start on the _structure_ of the garden: establishing windbreaks, building features, establishing paths and planting the canopy layer, the big trees. 
+
+There’s a natural pause, and then the final 2 lectures are about filling in the structure: clearing the ground, and then planting the shrubs and the ground cover.
+
 ## What you’ll learn
 
-Now I want to give you an outline of what you’ll learn on this mini-course. 
+You’ll learn, first of all, _why_ plans are useful, the whole reason to have a plan in the first place. 
 
-Firstly, we’ll look at what makes a Backyard Forest, and  _why_ they’re so important.
+As part of the planning process, you’ll learn how to create a map, both a paper and computer map. 
 
-Then, why should you bother planning at all? What’s the problem with planting in a random fashion? What’s the difference between a plan, a map and design? I'll cover these questions, and more.
+A map is where you’ll document your observations of what is around you, and we’ll cover which observations to make with a handy checklist, in quite some detail.
 
-Thirdly, you get a magnificent downloadable checklist, which will help you document what you already have and what you might want.
+Then, I’ll show you some rudimentary measuring techniques, to further refine your map.
 
-And finally, I show you _how_ to create a simple map, either with paper or on the computer.
+And finally, we’ll go through how to make a wishlist of desirable features and a wishlist of plants that you might like.
 
-And _finally_, finally, there’s some bonus top design tips.
+# 1. Plan
 
-So, without further ado, let’s get learning!
+## Why plans are useful
 
-## Backyard Forest definition
+1. By creating a map of the land, you have somewhere to log your observations, visualise your wishlist and start designing.
 
-A backyard forest is quite simply an **edible ecosystem**. It’s a way of growing edible crops _with_ nature. There are a few different names for such a growing system; I normally call it a forest garden but you will also hear food forest and edible landscape. 
+2. Like everything in life, you need to **work with what you’ve got**. This means documenting what is around you.
 
-I call it a Backyard Forest because I want to emphasise that _every_ garden, no matter the size, can be a forest garden. As a heads-up, I’ll use the terms interchangeably throughout the course.
+3. And then, you need to be clear what it is that you want, by making a wishlist. What vegetables do you like, what crops do you want, what space can you imagine? 
 
-> Work with nature to grow edible crops,
-> emulate the woodland edge using
-> perennial & ground cover plants
 
-As you can see, **sustainability** is at the core of forest gardening; it’s all about letting nature do the heavy lifting, with minimal inputs.
+## Plan, Design, Schedule
 
-# Edible ecosystem
-
-What you’re really doing is growing fruit, nuts, vegetables, salad and herbs in a **widlife garden**. It’s the garden itself that provides fertility, weed and pest control. Central to any wildlife garden is **native plants**, as these have co-evolved with native wildlife, providing food and shelter for all stages and life cycles. And this is exciting, because now you're gardening for **everyone**, with added purpose.
-
-# Why a Backyard Forest?
-
-So, why a backyard forest? Well, there are 2 reasons which are really 2 sides of the same problem: the ecological and climate emergency.
-
-We’re living through an age of mass extinction, driven by extreme climate change and habitat destruction, and the way that we live is the cause of it.
-
-Essentially, we need to live sustainably in order to sustain life, 
-
-# Characteristics
-
-A forest garden has some key characteristics. First and foremost, they are sustainable: self-sustaining ecosystems that provide their own fertility and pest control. There’s no need to bring anything extra into your Backyard Forest. The second characteristic is that it’s a **productive** garden, it’s geared up to provide a harvest of a whole range of different crops. Thirdly, as mentioned before, a Backyard Forest is **wildlife friendly by design**, by working _with_ nature. Number four, a Backyard Forest is gardening **in 3D** ie it uses all the available space, by using all the layers: the tree canopy, shrubs, herbaceous perennials, ground cover, climbers etc. And the fifth and final characteristic is that the vast majority of forest garden plants are perennial. This simply means that the plants grow for more than a couple of years, for example, trees, and herbaceous perennials like rhubarb. Annuals such as poppies and carrots only have a lifespan of one year. The reason for using perennials is that they are lower maintenance and more resilient. There _are_ annual plants in a forest garden but these tend to be ones that self-seed freely, for example nasturtiums and poached egg plant.
-
-# Reasons to plan
-
-Like everything in life, you need to **work with what you’ve got**. This means documenting what is around you. And then, you need to be clear what it is that you want, by making a wishlist. What vegetables do you like, what crops do you want, what space do you imagine? 
-
-Once you've done this, create a map of the land. This is the place to log your observations, visualise your wishlist and start designing.
-
-When you have designed, then it's time to create a plan of action by distilling a series of doable steps.
-
-# Plan, Design, Plan
-
-To help make the process clearer, I've divided up the planning and design stage into 3 steps: plan ➡️ design ➡️ plan
+To help make the process clearer, I've divided up the planning and design stage into 3 steps: plan ➡️ design ➡️ schedule
 
 # next slide
 
