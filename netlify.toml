@@ -1,2 +1,4 @@
 [context.preview]
   publish = "preview/"
+
+# https://docs.netlify.com/configure-builds/file-based-configuration/#sample-file
