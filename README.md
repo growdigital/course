@@ -1,3 +1,3 @@
-# Create a Backyard Forest
+# The Backyard Forest
 
 Slides for online forest garden course.
