@@ -101,7 +101,8 @@ a:visited {
 
 .right-img {
   position: absolute;
-  right: 160px;
+  /* right: 160px; */
+  right: 8em;
   text-align: center;
   top: 130px;
 }
